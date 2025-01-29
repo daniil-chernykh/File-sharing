@@ -1,0 +1,14 @@
+C:\Users\danii\Desktop\PET_PROJ\FileSharing\file-sharing\node\src\main\java\ru\hamming\configuration\RabbitConfiguration.java
+C:\Users\danii\Desktop\PET_PROJ\FileSharing\file-sharing\node\src\main\java\ru\hamming\dao\RawDataDAO.java
+C:\Users\danii\Desktop\PET_PROJ\FileSharing\file-sharing\node\src\main\java\ru\hamming\entity\RawData.java
+C:\Users\danii\Desktop\PET_PROJ\FileSharing\file-sharing\node\src\main\java\ru\hamming\exceptions\UploadFileException.java
+C:\Users\danii\Desktop\PET_PROJ\FileSharing\file-sharing\node\src\main\java\ru\hamming\NodeApplication.java
+C:\Users\danii\Desktop\PET_PROJ\FileSharing\file-sharing\node\src\main\java\ru\hamming\service\ConsumerService.java
+C:\Users\danii\Desktop\PET_PROJ\FileSharing\file-sharing\node\src\main\java\ru\hamming\service\enums\ServiceCommands.java
+C:\Users\danii\Desktop\PET_PROJ\FileSharing\file-sharing\node\src\main\java\ru\hamming\service\FileService.java
+C:\Users\danii\Desktop\PET_PROJ\FileSharing\file-sharing\node\src\main\java\ru\hamming\service\impl\ConsumerServiceImpl.java
+C:\Users\danii\Desktop\PET_PROJ\FileSharing\file-sharing\node\src\main\java\ru\hamming\service\impl\FileServiceImpl.java
+C:\Users\danii\Desktop\PET_PROJ\FileSharing\file-sharing\node\src\main\java\ru\hamming\service\impl\MainServiceImpl.java
+C:\Users\danii\Desktop\PET_PROJ\FileSharing\file-sharing\node\src\main\java\ru\hamming\service\impl\ProducerServiceImpl.java
+C:\Users\danii\Desktop\PET_PROJ\FileSharing\file-sharing\node\src\main\java\ru\hamming\service\MainService.java
+C:\Users\danii\Desktop\PET_PROJ\FileSharing\file-sharing\node\src\main\java\ru\hamming\service\ProducerService.java

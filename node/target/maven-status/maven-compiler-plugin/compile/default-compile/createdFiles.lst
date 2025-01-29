@@ -1,0 +1,15 @@
+ru\hamming\NodeApplication.class
+ru\hamming\dao\RawDataDAO.class
+ru\hamming\entity\RawData.class
+ru\hamming\service\FileService.class
+ru\hamming\service\impl\ConsumerServiceImpl.class
+ru\hamming\service\impl\MainServiceImpl.class
+ru\hamming\service\impl\ProducerServiceImpl.class
+ru\hamming\entity\RawData$RawDataBuilder.class
+ru\hamming\configuration\RabbitConfiguration.class
+ru\hamming\exceptions\UploadFileException.class
+ru\hamming\service\MainService.class
+ru\hamming\service\enums\ServiceCommands.class
+ru\hamming\service\ProducerService.class
+ru\hamming\service\ConsumerService.class
+ru\hamming\service\impl\FileServiceImpl.class

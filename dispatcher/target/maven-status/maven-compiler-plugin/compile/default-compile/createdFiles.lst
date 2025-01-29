@@ -1,0 +1,10 @@
+ru\hamming\service\impl\UpdateProducerImpl.class
+ru\hamming\service\impl\AnswerConsumerImpl.class
+ru\hamming\configuration\RabbitConfiguration.class
+ru\hamming\DispatcherApplication.class
+ru\hamming\service\UpdateProducer.class
+ru\hamming\controller\UpdateController.class
+ru\hamming\controller\TelegramBot.class
+ru\hamming\utils\MessageUtils.class
+ru\hamming\service\AnswerConsumer.class
+ru\hamming\config\TelegramBotConfig.class

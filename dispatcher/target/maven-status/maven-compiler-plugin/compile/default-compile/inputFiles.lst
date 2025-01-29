@@ -1,0 +1,10 @@
+C:\Users\danii\Desktop\PET_PROJ\FileSharing\file-sharing\dispatcher\src\main\java\ru\hamming\config\TelegramBotConfig.java
+C:\Users\danii\Desktop\PET_PROJ\FileSharing\file-sharing\dispatcher\src\main\java\ru\hamming\configuration\RabbitConfiguration.java
+C:\Users\danii\Desktop\PET_PROJ\FileSharing\file-sharing\dispatcher\src\main\java\ru\hamming\controller\TelegramBot.java
+C:\Users\danii\Desktop\PET_PROJ\FileSharing\file-sharing\dispatcher\src\main\java\ru\hamming\controller\UpdateController.java
+C:\Users\danii\Desktop\PET_PROJ\FileSharing\file-sharing\dispatcher\src\main\java\ru\hamming\DispatcherApplication.java
+C:\Users\danii\Desktop\PET_PROJ\FileSharing\file-sharing\dispatcher\src\main\java\ru\hamming\service\AnswerConsumer.java
+C:\Users\danii\Desktop\PET_PROJ\FileSharing\file-sharing\dispatcher\src\main\java\ru\hamming\service\impl\AnswerConsumerImpl.java
+C:\Users\danii\Desktop\PET_PROJ\FileSharing\file-sharing\dispatcher\src\main\java\ru\hamming\service\impl\UpdateProducerImpl.java
+C:\Users\danii\Desktop\PET_PROJ\FileSharing\file-sharing\dispatcher\src\main\java\ru\hamming\service\UpdateProducer.java
+C:\Users\danii\Desktop\PET_PROJ\FileSharing\file-sharing\dispatcher\src\main\java\ru\hamming\utils\MessageUtils.java

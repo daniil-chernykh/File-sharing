@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: ru.hamming.service.impl.MainServiceImplTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.559 s -- in ru.hamming.service.impl.MainServiceImplTest

@@ -1,0 +1,13 @@
+ru\hamming\entity\AppPhoto.class
+ru\hamming\entity\BinaryContent.class
+ru\hamming\entity\enums\UserState.class
+ru\hamming\entity\BinaryContent$BinaryContentBuilder.class
+ru\hamming\entity\AppDocument.class
+ru\hamming\entity\AppPhoto$AppPhotoBuilder.class
+ru\hamming\dao\AppUserDAO.class
+ru\hamming\entity\AppUser.class
+ru\hamming\dao\AppPhotoDAO.class
+ru\hamming\dao\AppDocumentDAO.class
+ru\hamming\entity\AppDocument$AppDocumentBuilder.class
+ru\hamming\entity\AppUser$AppUserBuilder.class
+ru\hamming\dao\BinaryContentDAO.class
